@@ -52,6 +52,17 @@ Restaurants that have many healthy dishes and are nearby to the user get recomme
 
 <p align="center"><img src="media/screenshots/suggestions.PNG"\></p>
 
+## Getting Started
+
+### Firebase
+1. Deploy the Firebase code to your Firebase functions
+2. Get a [Nutritionix API key](https://www.nutritionix.com/business/api)
+3. Insert your Nutritionix API key in **functions/src/index.ts** and **functions/lib/index.js**
+4. Insert your Google API key in **functions/src/index.ts** and **functions/lib/index.js**
+
+### Frontend
+1. Compile the Frontend code with Android Studio 
+
 
 
 
